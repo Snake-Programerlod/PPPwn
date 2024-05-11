@@ -1,34 +1,4 @@
-[
-  {
-    "Fw": 750,
-    "Description": "Firmware 7.50",
-    "PayloadPort": 9090,
-    "PPPwnCompatible": "Y"
-  },
-  {
-    "Fw": 751,
-    "Description": "Firmware 7.51",
-    "PayloadPort": 9090,
-    "PPPwnCompatible": "Y"
-  },
-  {
-    "Fw": 755,
-    "Description": "Firmware 7.55",
-    "PayloadPort": 9090,
-    "PPPwnCompatible": "Y"
-  },
-  {
-    "Fw": 800,
-    "Description": "Firmware 8.00",
-    "PayloadPort": 9090,
-    "PPPwnCompatible": "Y"
-  },
-  {
-    "Fw": 801,
-    "Description": "Firmware 8.01",
-    "PayloadPort": 9090,
-    "PPPwnCompatible": "Y"
-  },
+[  
   {
     "Fw": 850,
     "Description": "Firmware 8.50",
@@ -56,6 +26,18 @@
   {
     "Fw": 904,
     "Description": "Firmware 9.04",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y"
+  },
+  {
+    "Fw": 950,
+    "Description": "Firmware 9.50",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y"
+  },
+  {
+    "Fw": 951,
+    "Description": "Firmware 9.51",
     "PayloadPort": 9090,
     "PPPwnCompatible": "Y"
   },
