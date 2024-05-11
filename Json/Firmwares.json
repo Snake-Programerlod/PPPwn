@@ -30,12 +30,6 @@
     "PPPwnCompatible": "Y"
   },
   {
-    "Fw": 803,
-    "Description": "Firmware 8.03",
-    "PayloadPort": 9090,
-    "PPPwnCompatible": "Y"
-  },
-  {
     "Fw": 850,
     "Description": "Firmware 8.50",
     "PayloadPort": 9090,
@@ -62,12 +56,6 @@
   {
     "Fw": 904,
     "Description": "Firmware 9.04",
-    "PayloadPort": 9090,
-    "PPPwnCompatible": "Y"
-  },
-  {
-    "Fw": 905,
-    "Description": "Firmware 9.05",
     "PayloadPort": 9090,
     "PPPwnCompatible": "Y"
   },
