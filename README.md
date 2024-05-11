@@ -1,1 +1,1 @@
-Archivos para ejecutar PPPwn en PS4 desde PPPwn Runner
+Acabamos de actualizar el contenido del repositorio, nuevos archivos agregados
